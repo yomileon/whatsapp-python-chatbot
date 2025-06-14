@@ -1,0 +1,50 @@
+[
+  {
+    "role": "user",
+    "parts": [
+      "Hello, chatbot!"
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      "Test response from Gemini"
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      "Generate a long response"
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      "Line 1\nLine 2\nLine 3\nLine 4\nLine 5\nLine 6\nLine 7\nLine 8"
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      "Generate a long response"
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      "Line 1\nLine 2\nLine 3\nLine 4\nLine 5\nLine 6\nLine 7\nLine 8"
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      "Generate a long response"
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      "Line 1\nLine 2\nLine 3\nLine 4\nLine 5\nLine 6\nLine 7\nLine 8"
+    ]
+  }
+]
